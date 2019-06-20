@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/startImg">
+        <file alias="StartImg">Chess/startImg.jpg</file>
+    </qresource>
+    <qresource prefix="/gridImg">
+        <file>Image/Bishop_B_D.jpg</file>
+        <file>Image/Bishop_B_L.jpg</file>
+        <file>Image/Bishop_W_D.jpg</file>
+        <file>Image/Bishop_W_L.jpg</file>
+        <file>Image/King_B_D.jpg</file>
+        <file>Image/King_B_L.jpg</file>
+        <file>Image/King_W_D.jpg</file>
+        <file>Image/King_W_L.jpg</file>
+        <file>Image/Knight_B_D.jpg</file>
+        <file>Image/Knight_B_L.jpg</file>
+        <file>Image/Knight_W_D.jpg</file>
+        <file>Image/Knight_W_L.jpg</file>
+        <file>Image/Pawn_B_D.jpg</file>
+        <file>Image/Pawn_B_L.jpg</file>
+        <file>Image/Pawn_W_D.jpg</file>
+        <file>Image/Pawn_W_L.jpg</file>
+        <file>Image/possible_D.jpg</file>
+        <file>Image/possible_L.jpg</file>
+        <file>Image/Queen_B_D.jpg</file>
+        <file>Image/Queen_B_L.jpg</file>
+        <file>Image/Queen_W_D.jpg</file>
+        <file>Image/Queen_W_L.jpg</file>
+        <file>Image/Rook_B_D.jpg</file>
+        <file>Image/Rook_B_L.jpg</file>
+        <file>Image/Rook_W_D.jpg</file>
+        <file>Image/Rook_W_L.jpg</file>
+        <file>Image/background_D.jpg</file>
+        <file>Image/background_L.jpg</file>
+        <file>Image/Stroke.png</file>
+        <file>Image/Hover.png</file>
+    </qresource>
+</RCC>

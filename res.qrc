@@ -1,0 +1,96 @@
+<RCC>
+    <qresource prefix="/stratImg">
+        <file alias="startImg">Image/startImg.jpg</file>
+    </qresource>
+    <qresource prefix="/gridImg">
+        <file alias="Bg_Dark">Image/background_D.jpg</file>
+        <file alias="Bg_Light">Image/background_L.jpg</file>
+        <file alias="Bishop_B_D">Image/Bishop_B_D.jpg</file>
+        <file alias="Bishop_B_L">Image/Bishop_B_L.jpg</file>
+        <file alias="Bishop_W_D">Image/Bishop_W_D.jpg</file>
+        <file alias="Bishop_W_L">Image/Bishop_W_L.jpg</file>
+        <file alias="Hover">Image/Hover.png</file>
+        <file alias="King_B_D">Image/King_B_D.jpg</file>
+        <file alias="King_B_L">Image/King_B_L.jpg</file>
+        <file alias="King_W_D">Image/King_W_D.jpg</file>
+        <file alias="King_W_L">Image/King_W_L.jpg</file>
+        <file alias="Knight_B_D">Image/Knight_B_D.jpg</file>
+        <file alias="Knight_B_L">Image/Knight_B_L.jpg</file>
+        <file alias="Knight_W_D">Image/Knight_W_D.jpg</file>
+        <file alias="Knight_W_L">Image/Knight_W_L.jpg</file>
+        <file alias="Pawn_B_D">Image/Pawn_B_D.jpg</file>
+        <file alias="Pawn_B_L">Image/Pawn_B_L.jpg</file>
+        <file alias="Pawn_W_D">Image/Pawn_W_D.jpg</file>
+        <file alias="Pawn_W_L">Image/Pawn_W_L.jpg</file>
+        <file alias="possible_D">Image/possible_D.jpg</file>
+        <file alias="possible_L">Image/possible_L.jpg</file>
+        <file alias="Queen_B_D">Image/Queen_B_D.jpg</file>
+        <file alias="Queen_B_L">Image/Queen_B_L.jpg</file>
+        <file alias="Queen_W_D">Image/Queen_W_D.jpg</file>
+        <file alias="Queen_W_L">Image/Queen_W_L.jpg</file>
+        <file alias="Rook_B_D">Image/Rook_B_D.jpg</file>
+        <file alias="Rook_B_L">Image/Rook_B_L.jpg</file>
+        <file alias="Rook_W_D">Image/Rook_W_D.jpg</file>
+        <file alias="Rook_W_L">Image/Rook_W_L.jpg</file>
+        <file alias="Stroke">Image/Stroke.png</file>
+        <file alias="posi">Image/posi.png</file>
+        <file alias="redStroke">Image/redStroke.png</file>
+        <file alias="blueStroke">Image/blueStroke.png</file>
+        <file>Image/bg_Clasic.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>Audio/clickBoard.mp3</file>
+        <file>Audio/clickChess.mp3</file>
+        <file>Audio/killSound.mp3</file>
+        <file>Audio/backGround.mp3</file>
+    </qresource>
+    <qresource prefix="/sceneImg">
+        <file alias="Turn">Image/Turn.png</file>
+        <file alias="fog">Image/lightBlue.png</file>
+        <file alias="fogCS">Image/fog_cs.png</file>
+        <file alias="Bwins">Image/Bwins.png</file>
+        <file alias="Wwins">Image/Wwins.png</file>
+        <file alias="bg_Steel">Image/background_Steel.jpg</file>
+        <file alias="pause">Image/pause.jpg</file>
+        <file alias="replay">Image/replay.png</file>
+    </qresource>
+    <qresource prefix="/movie">
+        <file alias="blackWin">Gif/blackWin.gif</file>
+        <file alias="change">Gif/changeSide.gif</file>
+        <file alias="whiteWin">Gif/whiteWin.gif</file>
+    </qresource>
+    <qresource prefix="/gridImg/newsPaper">
+        <file>Image/newspaper/bb.png</file>
+        <file>Image/newspaper/bk.png</file>
+        <file>Image/newspaper/bn.png</file>
+        <file>Image/newspaper/bp.png</file>
+        <file>Image/newspaper/bq.png</file>
+        <file>Image/newspaper/br.png</file>
+        <file>Image/newspaper/wb.png</file>
+        <file>Image/newspaper/wk.png</file>
+        <file>Image/newspaper/wn.png</file>
+        <file>Image/newspaper/wp.png</file>
+        <file>Image/newspaper/wq.png</file>
+        <file>Image/newspaper/wr.png</file>
+        <file>Image/newspaper/bg_Newpaper.png</file>
+        <file>Image/newspaper/posi_D.jpg</file>
+        <file>Image/newspaper/posi_L.jpg</file>
+    </qresource>
+    <qresource prefix="/gridImg/8bit">
+        <file>Image/8_bit/bb.png</file>
+        <file>Image/8_bit/bk.png</file>
+        <file>Image/8_bit/bn.png</file>
+        <file>Image/8_bit/bp.png</file>
+        <file>Image/8_bit/bq.png</file>
+        <file>Image/8_bit/br.png</file>
+        <file>Image/8_bit/wb.png</file>
+        <file>Image/8_bit/wk.png</file>
+        <file>Image/8_bit/wn.png</file>
+        <file>Image/8_bit/wp.png</file>
+        <file>Image/8_bit/wq.png</file>
+        <file>Image/8_bit/wr.png</file>
+        <file>Image/8_bit/bg_8bit.png</file>
+        <file>Image/8_bit/posi_D.png</file>
+        <file>Image/8_bit/posi_L.png</file>
+    </qresource>
+</RCC>
